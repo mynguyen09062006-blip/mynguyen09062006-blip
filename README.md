@@ -1,6 +1,6 @@
-### Hi, I'm My Nguyen 👋
+### Hi, I'm My Nguyen
 
-Final-year **Business Management with Business Analytics** student (University of Bedfordshire × Foreign Trade University, HCMC). I turn messy business data into clear decisions.
+Final-year **Business Management with Business Analytics** student (University of Bedfordshire × Foreign Trade University, HCMC). I turn raw business data into clear decisions.
 
 - 🔎 Interested in: e-commerce analytics, customer segmentation, BI dashboards
 - 🛠 Tools: Python (pandas, seaborn), Excel, Power BI
