@@ -11,7 +11,7 @@ Final-year **Business Management with Business Analytics** student (University o
 
 | Project | What it shows |
 |---|---|
-| [E-commerce Customer Segmentation](https://github.com/mynguyen09062006-blip/push-code/tree/main/ecommerce-transaction-analysis) | Cleaning 500K+ transactions, EDA, and an RF model that groups 4,293 customers into 7 CRM segments |
+| [E-commerce Customer Segmentation](https://github.com/mynguyen09062006-blip/Ecommerce-customer-segmentation) | Cleaning 500K+ transactions, EDA, and an RF model that groups 4,293 customers into 7 CRM segments |
 | [Blinkit Sales Dashboard](https://github.com/mynguyen09062006-blip/blinkit-sales-dashboard) | Interactive Power BI dashboard (DAX, field parameters, bookmarks) on 8,523 grocery sales records |
 | [Movie Correlation Analysis](https://github.com/mynguyen09062006-blip/Movie_Correlation) | Finding which factors drive box-office revenue |
-| [Amazon Price Tracker](https://github.com/mynguyen09062006-blip/WebScrapping-v1-) | Automated web scraping into a price-history dataset |
+| [Amazon Price Tracker](https://github.com/mynguyen09062006-blip/amazon-price-tracker) | Automated web scraping into a price-history dataset |
