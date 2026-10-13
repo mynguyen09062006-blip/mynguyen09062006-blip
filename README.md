@@ -4,7 +4,6 @@ Final-year **Business Management with Business Analytics** student (University o
 
 - 🔎 Interested in: e-commerce analytics, customer segmentation, BI dashboards
 - 🛠 Tools: Python (pandas, seaborn), Excel, Power BI
-- 🎓 First Class Honours track · Data Analytics certificate (MCI Academy)
 - 📫 [LinkedIn](https://www.linkedin.com/in/my-nguyen-anh/)
 
 **Featured projects**
